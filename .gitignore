@@ -1,0 +1,14 @@
+# Flutter / Dart / Android
+.dart_tool/
+.idea/
+.vscode/
+build/
+.packages
+*.log
+*.apk
+*.ipa
+*.zip
+.gradle/
+*.iml
+.flutter-plugins
+ios/Flutter/*.framework

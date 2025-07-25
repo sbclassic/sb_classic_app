@@ -1,0 +1,310 @@
+[
+  {
+    "id": "classic_designer_slides",
+    "name": "Classic Designer Slides",
+    "price": 1190,
+    "sizes": "38-46",
+    "category": "Slippers/Sandals",
+    "colors": {
+      "White": "https://i.imgur.com/TJ2oq1t.jpg",
+      "Black": "https://i.imgur.com/BYkWBWb.jpg",
+      "White1": "https://i.imgur.com/0URMoox.jpg",
+      "Black1": "https://i.imgur.com/L9gdNFr.jpg",
+      "White2": "https://i.imgur.com/GTPVdZw.jpg",
+      "Black2": "https://i.imgur.com/UZ9W9LO.jpg",
+      "White3": "https://i.imgur.com/TJ2oq1t.jpg",
+      "Black3": "https://i.imgur.com/BYkWBWb.jpg",
+      "Black4": "https://i.imgur.com/L9gdNFr.jpg",
+      "White4": "https://i.imgur.com/4gAnMRT.jpg",
+      "Black5": "https://i.imgur.com/uclLcrX.jpg",
+      "White5": "https://i.imgur.com/0URMoox.jpg",
+      "Black6": "https://i.imgur.com/7TgQIVW.jpg",
+      "Mixed": "https://i.imgur.com/obJs1zs.jpg"
+    }
+  },
+  {
+    "id": "elegant_mens_slippers",
+    "name": "Elegant Men's Slippers/Sandals",
+    "price": 1290,
+    "sizes": "38-46",
+    "category": "Slippers/Sandals",
+    "featured": true,
+    "colors": {
+      "Black": "https://i.imgur.com/5mqoRws.jpg",
+      "Black1": "https://i.imgur.com/UPkJ4Py.jpg",
+      "Black2": "https://i.imgur.com/RpxREdR.jpg",
+      "Black3": "https://i.imgur.com/3ZX0ltK.jpg",
+      "Blue": "https://i.imgur.com/sE0Sl88.jpg",
+      "Blue1": "https://i.imgur.com/lbUlzR1.jpg",
+      "Black4": "https://i.imgur.com/odD3H81.jpg",
+      "Ash": "https://i.imgur.com/iXrSx3h.jpg",
+      "Black5": "https://i.imgur.com/954C6q3.jpg",
+      "Ash1": "https://i.imgur.com/4ne6f4H.jpg",
+      "Ash2": "https://i.imgur.com/C223y6x.jpg"
+    }
+  },
+  {
+    "name": "Elegant Boss Sneaker",
+    "price": 1890,
+    "sizes": "38, 39, 40, 41, 42, 43, 44, 45, 46",
+    "category": "Shoes",
+    "colors": {
+      "Black": "https://imgur.com/Gt2247n.jpg",
+      "Blue": "https://imgur.com/6ZbfECi.jpg",
+      "White": "https://imgur.com/b5tYse1.jpg",
+      "Gray": "https://imgur.com/teaLjDh.jpg",
+      "Beige": "https://imgur.com/AdYKNqN.jpg"
+    }
+  },
+  {
+    "name": "Classic Gucci Design Sneaker",
+    "price": 1799,
+    "sizes": "38, 39, 40, 41, 42, 43, 44, 45, 46",
+    "category": "Shoes",
+    "colors": {
+      "White": "https://imgur.com/wivjLy7.jpg",
+      "Black": "https://imgur.com/PePTw4c.jpg",
+      "White1": "https://imgur.com/NXOqwBl.jpg",
+      "Black1": "https://imgur.com/JwCanF8.jpg"
+    }
+  },
+  {
+    "name": "Elegant Men's Designer Cooperate Shoes",
+    "price": 1860,
+    "sizes": "38, 39, 40, 41, 42, 43, 44, 45, 46",
+    "category": "Shoes",
+    "colors": {
+      "Mixed": "https://imgur.com/6dCStMd.jpg",
+      "Mixed1": "https://imgur.com/Vo5VYfg.jpg",
+      "Mixed2": "https://imgur.com/CzQqXrx.jpg"
+    }
+  },
+  {
+    "name": "Elegant Men's Designer Cooperate Shoes",
+    "price": 1890,
+    "sizes": "38, 39, 40, 41, 42, 43, 44, 45, 46",
+    "category": "Shoes",
+    "colors": {
+      "Black": "https://imgur.com/VktnMOH.jpg",
+      "Black1": "https://imgur.com/AEBEg1u.jpg",
+      "Black2": "https://imgur.com/qBGOElm.jpg",
+      "Black3": "https://imgur.com/DULAbWE.jpg",
+      "Black4": "https://imgur.com/e0cbMgM.jpg",
+      "Mixed": "https://imgur.com/Y5RdHHX.jpg"
+    }
+  },
+  {
+    "name": "Classy Men's Designer Sneakers",
+    "price": 1799,
+    "sizes": "38, 39, 40, 41, 42, 43, 44, 45, 46",
+    "category": "Shoes",
+    "colors": {
+      "Brown": "https://imgur.com/VaYd19y.jpg",
+      "Black": "https://imgur.com/KOHJm0Y.jpg",
+      "White": "https://imgur.com/n7ZDKHR/CzQqXrx.jpg",
+      "Black3": "https://imgur.com/Gt79OKI.jpg",
+      "Black1": "https://imgur.com/0weoSo3.jpg",
+      "Ash": "https://imgur.com/837xpzq.jpg",
+      "Blue": "https://imgur.com/DT9X34V.jpg",
+      "Brown1": "https://imgur.com/DT9X34V.jpg",
+      "Black2": "https://imgur.com/Ml7BZcU.jpg"
+    }
+  },
+  {
+    "name": "Authentic Designers Sneakers",
+    "price": 1890,
+    "sizes": "38, 39, 40, 41, 42, 43, 44, 45, 46",
+    "category": "Shoes",
+    "colors": {
+      "White": "https://imgur.com/NU9K7FM.jpg",
+      "White1": "https://imgur.com/TgRciJp.jpg",
+      "White2": "https://imgur.com/YxzMCRl.jpg",
+      "Ash": "https://imgur.com/YxzMCRl.jpg",
+      "Black": "https://imgur.com/Yk8Tx4Z.jpg",
+      "Orange": "https://imgur.com/tI10RAF.jpg",
+      "Blue": "https://imgur.com/zBXDLow.jpg"
+    }
+  },
+  {
+      "name": "Authentic Designers Sneakers",
+      "price": 1860,
+      "sizes": "38, 39, 40, 41, 42, 43, 44, 45, 46",
+      "category": "Shoes",
+      "colors": {
+        "Black": "https://imgur.com/gbcVNG7.jpg",
+        "White": "https://imgur.com/Cgdo47h.jpg",
+        "White1": "https://imgur.com/wbk1HDH.jpg",
+        "Green": "https://imgur.com/7S8GgoW.jpg",
+        "White2": "https://imgur.com/EBlcKgo.jpg",
+        "White3": "https://imgur.com/7kTyCev.jpg",
+        "Red": "https://imgur.com/pu7Zxuj.jpg"
+      }
+    },
+    {
+      "name": "Authentic Designers Sneakers",
+      "price": 1890,
+      "sizes": "38, 39, 40, 41, 42, 43, 44, 45, 46",
+      "category": "Shoes",
+      "colors": {
+        "White": "https://imgur.com/b4sIJgL.jpg",
+        "Black": "https://imgur.com/A9uVFRx.jpg",
+        "White1": "https://imgur.com/H5azLsq.jpg",
+        "Black1": "https://imgur.com/LZJK4Nj.jpg",
+        "White2": "https://imgur.com/CjcJWfm.jpg"
+      }
+    },
+    {
+      "id": "classic_2pcs_set_white",
+      "name": "Classic 2pcs Set White",
+      "price": 1890,
+      "sizes": "S, M, L, XL, XXL, XXXL, XXXXL, XXXXXL, XXXXXXL",
+      "category": "Clothes",
+      "colors": {
+        "White": "https://i.imgur.com/OhORSEe.jpg"
+      }
+    },
+    {
+      "id": "denim_jacket",
+      "name": "Denim Jacket",
+      "price": 880,
+      "sizes": "S, M, L, XL, XXL, XXXL, XXXXL, XXXXXL, XXXXXXL",
+      "category": "Clothes",
+      "colors": {
+        "Denim": "https://i.imgur.com/db4oFh0.jpg"
+      }
+    },
+    {
+      "id": "elegant_2pcs_set",
+      "name": "Elegant 2pcs Set",
+      "price": 1899,
+      "sizes": "S, M, L, XL, XXL, XXXL, XXXXL, XXXXXL, XXXXXXL",
+      "category": "Clothes",
+      "colors": {
+        "Apricot": "https://i.imgur.com/VWzXB70.jpg",
+        "Blue Black": "https://i.imgur.com/WIrIt8b.jpg",
+        "Black": "https://i.imgur.com/xAsIYDV.jpg"
+      }
+    },
+    {
+      "id": "elegant_3pcs_suit",
+      "name": "Elegant Men’s Cooperate 3pcs Suit Set",
+      "price": 1999,
+      "sizes": "S, M, L, XL, XXL, XXXL, XXXXL, XXXXXL, XXXXXXL",
+      "category": "Clothes",
+      "colors": {
+        "White": "https://i.imgur.com/LjyEEpn.jpg",
+        "Black": "https://i.imgur.com/Njvwk11.jpg"
+      }
+    },
+    {
+      "id": "fashion_sweater_mixed",
+      "name": "Fashion Sweater Mixed Color",
+      "price": 880,
+      "sizes": "S, M, L, XL, XXL, XXXL, XXXXL, XXXXXL, XXXXXXL",
+      "category": "Clothes",
+      "colors": {
+        "Mixed": "https://i.imgur.com/lhz1whz.jpg"
+      }
+    },
+    {
+      "id": "premium_leather_jacket",
+      "name": "Premium Leather Jacket",
+      "price": 1180,
+      "sizes": "S, M, L, XL, XXL, XXXL, XXXXL, XXXXXL, XXXXXXL",
+      "category": "Clothes",
+      "colors": {
+        "Brown": "https://i.imgur.com/kT2ly15.png",
+        "Black": "https://i.imgur.com/lhxAr0w.png"
+      }
+    },
+    {
+      "id": "premium_jacket",
+      "name": "Premium Jacket",
+      "price": 1180,
+      "sizes": "S, M, L, XL, XXL, XXXL, XXXXL, XXXXXL, XXXXXXL",
+      "category": "Clothes",
+      "colors": {
+        "Brown": "https://i.imgur.com/FrkSmCs.jpg",
+        "Ash": "https://i.imgur.com/bGYpKIN.jpg"
+      }
+    },
+    {
+      "id": "premium_denim_jacket",
+      "name": "Premium Denim Jacket",
+      "price": 999,
+      "sizes": "S, M, L, XL, XXL, XXXL, XXXXL, XXXXXL, XXXXXXL",
+      "category": "Clothes",
+      "colors": {
+        "Camel": "https://i.imgur.com/MjLDTuN.jpg",
+        "Brown": "https://i.imgur.com/ciY55Qu.jpg",
+        "Green1": "https://i.imgur.com/1TQEk5l.jpg",
+        "Green2": "https://i.imgur.com/FPv1jjU.jpg",
+        "Blue1": "https://i.imgur.com/l37a2f8.jpg",
+        "Blue2": "https://i.imgur.com/4jQzMEK.jpg"
+      }
+    },
+    {
+      "id": "premium_polo_tshirt",
+      "name": "Premium Polo T-Shirt",
+      "price": 740,
+      "sizes": "S, M, L, XL, XXL, XXXL, XXXXL, XXXXXL, XXXXXXL",
+      "category": "Clothes",
+      "colors": {
+        "White": "https://i.imgur.com/w2Dnxo8.png",
+        "Orange": "https://i.imgur.com/RTR0gKS.png",
+        "Black": "https://i.imgur.com/7ll8id5.png"
+      }
+    },
+    {
+      "id": "fashion_tshirt",
+      "name": "Fashion T-Shirt",
+      "price": 790,
+      "sizes": "S, M, L, XL, XXL, XXXL, XXXXL, XXXXXL, XXXXXXL",
+      "category": "Clothes",
+      "colors": {
+        "White": "https://i.imgur.com/tAvDy3y.jpg",
+        "Black": "https://i.imgur.com/hEqsVOx.jpg",
+        "Brown": "https://i.imgur.com/J5iIHGE.jpg"
+      }
+    },
+    {
+      "id": "fashion_sweatshirt",
+      "name": "Fashion Sweatshirt",
+      "price": 890,
+      "sizes": "S, M, L, XL, XXL, XXXL, XXXXL, XXXXXL, XXXXXXL",
+      "category": "Clothes",
+      "colors": {
+        "Green": "https://i.imgur.com/LMwqwu8.jpg",
+        "Black": "https://i.imgur.com/lz1Lnab.jpg"
+      }
+    },
+    {
+      "id": "fashion_polo_tshirt",
+      "name": "Fashion Polo T-Shirt",
+      "price": 790,
+      "sizes": "S, M, L, XL, XXL, XXXL, XXXXL, XXXXXL, XXXXXXL",
+      "category": "Clothes",
+      "colors": {
+        "White": "https://i.imgur.com/8zOXAjp.jpg",
+        "Black": "https://i.imgur.com/eOccq1E.jpg",
+        "Ash": "https://i.imgur.com/hxDs26i.jpg"
+      }
+    },
+    {
+      "id": "premium_2pcs_set",
+      "name": "Premium 2Pcs Set",
+      "price": 1890,
+      "sizes": "S, M, L, XL, XXL, XXXL, XXXXL, XXXXXL, XXXXXXL",
+      "category": "Clothes",
+      "colors": {
+        "Apricot1": "https://i.imgur.com/bkJP0cK.jpg",
+        "Black1": "https://i.imgur.com/AHkwZJ2.jpg",
+        "White": "https://i.imgur.com/kIXiDT9.jpg",
+        "Blue1": "https://i.imgur.com/ftKvGpO.jpg",
+        "Black2": "https://i.imgur.com/FwlbzSi.jpg",
+        "Apricot2": "https://i.imgur.com/M1T5cKr.jpg",
+        "Black3": "https://i.imgur.com/IlvC3nb.jpg",
+        "Blue2": "https://i.imgur.com/edfQwOP.jpg"
+      }
+    }
+  ]
